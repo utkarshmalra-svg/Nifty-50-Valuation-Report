@@ -6,7 +6,7 @@ An equity research project that estimates the **intrinsic value of the NIFTY 50 
 
 **Author:** Utkarsh Malra  |  **Report date:** July 2026  |  **Valuation date:** 12 July 2026
 
-📄 **Full report:** [`nifty_50_valuation.pdf`](./nifty_50_valuation.pdf)
+📄 **Full report:** [`nifty_50_valuation.pdf`](Nifty_50_Valuation.pdf)
 
 ---
 
