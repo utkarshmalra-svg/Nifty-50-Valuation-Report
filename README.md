@@ -20,7 +20,7 @@ An equity research project that estimates the **intrinsic value of the NIFTY 50 
 | Implied P/E at intrinsic value | ~14.9x (vs. 20.9x current trailing P/E) |
 | Conclusion | NIFTY 50 appears **overvalued** under base-case assumptions |
 
-> ⚠️ The result is highly sensitive to the cost of equity and terminal growth rate. See [Sensitivity Analysis](#-sensitivity-analysis) and [Model Notes](#-model-notes--limitations).
+> ⚠️ The result is highly sensitive to the cost of equity and terminal growth rate.
 
 ---
 
@@ -263,14 +263,7 @@ Intrinsic value of the index (₹) for different **terminal growth rates (rows)*
 - **Reading the sensitivity table.** Rows are terminal growth rates and columns are cost of equity (the model values equity cash flows, so the discount rate is cost of equity rather than WACC).
 
 ---
-
-## 🗂 Repository Structure
-
-```
-nifty-50-valuation/
-├── README.md                    # Project documentation (this file)
-└── nifty_50_valuation.pdf       # Full valuation report (slides)
-```
+`
 
 **Report contents (PDF):** About & financial summary · Companies in NIFTY 50 · Sector-wise weights · Context & valuation objective · Earnings growth estimate · Risk-free rate · Equity risk premium · Terminal growth rate · Assumptions & beta · DCF valuation (GGM) · Scenario analysis · Investment thesis & limitations.
 
@@ -278,8 +271,7 @@ nifty-50-valuation/
 
 ## ⚠️ Disclaimer
 
-This project provides an independent NIFTY 50 valuation using publicly available data and a DCF approach, based on assumptions that may differ from actual future outcomes. It is intended **only for educational and research purposes** and must not be treated as investment, financial, legal or tax advice, or as a recommendation to buy, sell or hold any security. The author makes no warranty as to accuracy or completeness and is not liable for any loss arising from reliance on this work. Do your own research and consult a qualified advisor.
-
+This project provides an independent NIFTY 50 valuation using publicly available data and a DCF approach, based on assumptions that may differ from actual future outcomes. It is intended **only for educational and research purposes** and must not be treated as investment, financial, legal or tax advice, or as a recommendation to buy, sell or hold any security. 
 ---
 
 ## 🤝 Connect
