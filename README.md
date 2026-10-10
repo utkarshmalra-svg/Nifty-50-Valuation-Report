@@ -263,11 +263,6 @@ Intrinsic value of the index (₹) for different **terminal growth rates (rows)*
 - **Reading the sensitivity table.** Rows are terminal growth rates and columns are cost of equity (the model values equity cash flows, so the discount rate is cost of equity rather than WACC).
 
 ---
-`
-
-**Report contents (PDF):** About & financial summary · Companies in NIFTY 50 · Sector-wise weights · Context & valuation objective · Earnings growth estimate · Risk-free rate · Equity risk premium · Terminal growth rate · Assumptions & beta · DCF valuation (GGM) · Scenario analysis · Investment thesis & limitations.
-
----
 
 ## ⚠️ Disclaimer
 
