@@ -273,4 +273,4 @@ This project provides an independent NIFTY 50 valuation using publicly available
 
 If you found this useful, ⭐ star the repo, share your feedback, or open an issue. *"The best investment you can make is an informed decision."*
 
-**Prepared by Utkarsh Malra · July 2026**
+**Prepared by Utkarsh Singh Malra · July 2026**
